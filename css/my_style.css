@@ -1,3 +1,11 @@
+:root {
+    --bs-primary:#68b9f3fa ;
+    --bs-primary-rgb: 104,  185, 243;
+    --bs-secondary:#ee9ae0fa;
+    --bs-secondary-rgb:238 ,154 ,224 ;
+}
+
+
 body {
     font-family: 'Noto Sans TC', sans-serif;
 }
